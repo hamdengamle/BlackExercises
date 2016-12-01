@@ -1,0 +1,15 @@
+user: julz
+123
+0
+
+user: admin
+admin
+0
+
+user: clint
+123
+1
+
+user: user
+user
+1
